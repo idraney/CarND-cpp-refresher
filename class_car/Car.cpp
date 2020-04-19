@@ -45,5 +45,3 @@ void Car::fix() {
   in_working_condition_ = true;
   std::cout << "Fixed!" << std::endl;
 }
-
-

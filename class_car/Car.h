@@ -19,6 +19,3 @@ class Car
         bool in_working_condition_;
     
 };
-
-
-
